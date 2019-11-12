@@ -6,7 +6,7 @@ Apllying convolutional neural networks to predicting the most probable art style
 
 - **[How to use](#how-to-use)**
 - **[The dataset and data pre-processing](#the-dataset-and-data-pre-processing)**
-- **[The neural network and fine tuning process](#the-neural-network-and-fine-tuning-process~~__~~)**
+- **[The neural network and fine tuning process](#the-neural-network-and-fine-tuning-process)**
 - **[Unusual practices](#unusual-practices)**
 
 ## How to use
